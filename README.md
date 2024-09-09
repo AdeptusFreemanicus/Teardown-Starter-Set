@@ -33,7 +33,7 @@ Hardness.png | ground.lua | teardown_palette.png | Use For New.vox
 Copyright ©2020-2021 Tuxedo Labs AB
 
 Everything else is owned by me
-Copyright ©2020 Bill Joe Freeman
+Copyright ©2020 Adeptus Freemanicus
 
 Updates
 
